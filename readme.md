@@ -2,7 +2,7 @@
 
 Number guessing game where you speak your guess into the microphone using the speech recognition API
 
-## Project Specifications
+# Project Specifications
 
 - Display UI directing user to speak guess
 - Implement speech recognition to listen to mic
